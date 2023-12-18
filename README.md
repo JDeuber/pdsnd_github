@@ -5,7 +5,7 @@ Date created project: 07.11.2023
 Date created README file: 18.12.2023
 
 ### Project Title
-Replace the Project Title
+Bikeshare Data Analysis of usage patterns in Chicago, New York City, and Washington
 
 ### Description
 Describe what your project is about and what it does
