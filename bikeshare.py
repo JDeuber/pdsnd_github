@@ -24,7 +24,7 @@ def get_filters():
         if location in ['chicago', 'new york location', 'washington']:
             break
         else:
-            print('Error: Please enter one of the location names: Chicago, New York location, or Washington\n')
+            print('Error: Please enter one of the city names: Chicago, New York location, or Washington\n')
 
 
     # get user input for month (all, january, february, ... , june)
