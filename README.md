@@ -19,5 +19,5 @@ Station Data: Location of start and end station
 User Data: membership status (subscribter or customer), as well as for Chicago and NCY gender and birth year.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Thank you to Udacity. Check out their git course here: https://www.udacity.com/course/version-control-with-git--ud123
 
