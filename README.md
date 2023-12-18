@@ -8,10 +8,15 @@ Date created README file: 18.12.2023
 Bikeshare Data Analysis of usage patterns in Chicago, New York City, and Washington
 
 ### Description
-Describe what your project is about and what it does
+This project aims to analyze and gain insights from bikeshare data. The dataset used contains information about bike trips, stations, and user demographics.
 
 ### Files used
-Include the files used
+
+The bikeshare data used in this project is provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. It includes the following information for Chicago, New York City and Washington:
+
+Trip Data: Start time, end time, trip duration, stations involved in each bike trip.
+Station Data: Location of start and end station
+User Data: membership status (subscribter or customer), as well as for Chicago and NCY gender and birth year.
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
